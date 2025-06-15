@@ -1,10 +1,10 @@
-#Community, But Not Cluttered
+# Community, But Not Cluttered
 
 > “We don’t need more features. We need better feelings.” 
 
 ---
 
-##Problem
+## Problem
 
 Communities on X feel... noisy.  
 Every one you join floods your home timeline.  
@@ -19,7 +19,7 @@ No clarity. No hierarchy. Just more content.
 
 ---
 
-##Insight
+## Insight
 
 People don’t want a new community.  
 They want **a quiet corner**.
@@ -32,7 +32,7 @@ Where:
 
 ---
 
-##The Redesign
+## The Redesign
 
 We reimagined the X Community system:
 
@@ -46,7 +46,7 @@ We reimagined the X Community system:
 
 ---
 
-##Flow
+## Flow
 
 Reporting a post now takes just 1 screen.  
 Browsing feels focused. Posting feels safe.  
@@ -54,7 +54,7 @@ Discovering feels exciting — **not overwhelming**.
 
 ---
 
-## 💭 The Feeling
+## The Feeling
 
 > “It felt like this was always how Communities should’ve worked.”
 
